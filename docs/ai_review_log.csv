@@ -1,0 +1,3 @@
+date,tool,task,output_used,human_validation,notes
+2026-09-27,ChatGPT,Generate initial QA scenarios,Partially,Yes,Removed assumptions and added explicit data-quality cases
+2026-09-27,Claude,Review edge cases,Partially,Yes,Used suggestions only after checking against requirement
