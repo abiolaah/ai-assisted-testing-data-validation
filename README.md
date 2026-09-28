@@ -1,6 +1,6 @@
 # AI-Assisted QA: CSV Data Validation & API Testing
 
-A portfolio project demonstrating practical experience with **CSV files, spreadsheets, data validation, dataset inconsistency detection, API validation, and thoughtful use of ChatGPT/Claude**.
+A project demonstrating practical experience with **CSV files, spreadsheets, data validation, dataset inconsistency detection, API validation, and thoughtful use of ChatGPT/Claude**.
 
 ## What this project demonstrates
 
@@ -22,7 +22,6 @@ Workflow:
 
 Requirement → ChatGPT/Claude → Draft scenarios → Human review → Spreadsheet test cases → CSV test data → Automated validation → Findings
 
-The repository contains the prompts and a review log so a recruiter can see how AI was used and where human validation was applied.
 
 ## Project structure
 
